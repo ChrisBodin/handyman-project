@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  profession: MyString
+  desc: MyText
+
+two:
+  profession: MyString
+  desc: MyText
